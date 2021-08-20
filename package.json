@@ -1,7 +1,9 @@
 {
   "name": "gulp",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "gsap": "^3.7.1"
+  },
   "private": true,
   "browserslist": [
     "defaults"
